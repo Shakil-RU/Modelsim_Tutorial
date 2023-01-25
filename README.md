@@ -1,4 +1,4 @@
-# ModelSim Tutorial For Beginners
+# ModelSim Install Tutorial For Beginners
 
 ## ModelSim Installation on Windows
 
